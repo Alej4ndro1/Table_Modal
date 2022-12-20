@@ -1,0 +1,38 @@
+export const users = [
+  {
+    action: '...',
+    title: 'Lorem ipsum',
+    userName: 'John Doe',
+    phone: '+380 95 862-23-46',
+    email: 'milema5478@paxven.com',
+    url: 'https://yesoriginal.inboost.ai/api/webhok/retwsdhgds32/',
+    data: '01.01.2022',
+  },
+  {
+    action: '...',
+    title: 'Nam dictum',
+    userName: 'Aine Thomson',
+    phone: '+380 95 368-87-62',
+    email: 'kosajoj658@lubde.com',
+    url: 'https://yesoriginal.inboost.ai/api/webhok/retwsdhgds32/',
+    data: '01.01.2023',
+  },
+  {
+    action: '...',
+    title: 'Donec luctus',
+    userName: 'Benedict Mcneil',
+    phone: '+380 95 492-39-10',
+    email: 'godam14837@nazyno.com',
+    url: 'https://yesoriginal.inboost.ai/api/webhok/retwsdhgds32/',
+    data: '01.01.2025',
+  },
+  {
+    action: '...',
+    title: 'Nullam volutpat',
+    userName: 'Melisa Foley',
+    phone: '+380 95 275-53-83',
+    email: 'pahibe4048@randrai.com',
+    url: 'https://yesoriginal.inboost.ai/api/webhok/retwsdhgds32/',
+    data: '01.01.2021',
+  },
+];
